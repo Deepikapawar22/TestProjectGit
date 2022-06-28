@@ -1,0 +1,6 @@
+URL =  https://www.facebook.com/
+URL1 = https://aqiq.motware.com/
+Email = //input[@id='email']
+Password =  //input[@id='pass']
+EmailTestData = abc@gmail.com
+PasswardTestData = 12345
